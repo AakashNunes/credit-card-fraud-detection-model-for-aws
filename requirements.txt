@@ -1,0 +1,15 @@
+pandas
+boto3
+altair<5
+numpy
+sklearn
+pickle
+argparse
+json
+pathlib 
+subprocess
+logging
+sys
+argparse
+json
+seaborn 
